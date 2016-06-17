@@ -1,0 +1,96 @@
+D:\LearningXNA4.0\Chapter 14\3D Game\3D Game\3D Game\bin\x86\Debug\Content\Models\spaceship.xnb
+D:\LearningXNA4.0\Chapter 14\3D Game\3D Game\3D Game\bin\x86\Debug\Content\Models\ammo.xnb
+D:\LearningXNA4.0\Chapter 14\3D Game\3D Game\3D Game\bin\x86\Debug\Content\Textures\Crosshair.xnb
+D:\LearningXNA4.0\Chapter 14\3D Game\3D Game\3D Game\bin\x86\Debug\Content\Textures\Particle.xnb
+D:\LearningXNA4.0\Chapter 14\3D Game\3D Game\3D Game\bin\x86\Debug\Content\Textures\ParticleColors.xnb
+D:\LearningXNA4.0\Chapter 14\3D Game\3D Game\3D Game\bin\x86\Debug\Content\Textures\Stars.xnb
+D:\LearningXNA4.0\Chapter 14\3D Game\3D Game\3D Game\bin\x86\Debug\Content\Effects\Particle.xnb
+D:\LearningXNA4.0\Chapter 14\3D Game\3D Game\3D Game\bin\x86\Debug\Content\Audio\GameAudio.xgs
+D:\LearningXNA4.0\Chapter 14\3D Game\3D Game\3D Game\bin\x86\Debug\Content\Audio\Wave Bank.xwb
+D:\LearningXNA4.0\Chapter 14\3D Game\3D Game\3D Game\bin\x86\Debug\Content\Audio\Sound Bank.xsb
+D:\LearningXNA4.0\Chapter 14\3D Game\3D Game\3D Game\bin\x86\Debug\3D Game.exe
+D:\LearningXNA4.0\Chapter 14\3D Game\3D Game\3D Game\bin\x86\Debug\3D Game.pdb
+D:\LearningXNA4.0\Chapter 14\3D Game\3D Game\3D Game\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\LearningXNA4.0\Chapter 14\3D Game\3D Game\3D Game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\LearningXNA4.0\Chapter 14\3D Game\3D Game\3D Game\obj\x86\Debug\3D Game.exe
+D:\LearningXNA4.0\Chapter 14\3D Game\3D Game\3D Game\obj\x86\Debug\3D Game.pdb
+D:\Chapter 14\3D Game\3D Game\3D Game\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Chapter 14\3D Game\3D Game\3D Game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Chapter 14\3D Game\3D Game\3D Game\obj\x86\Debug\3D Game.pdb
+D:\Chapter 14\3D Game\3D Game\3D Game\bin\x86\Debug\Content\Models\spaceship.xnb
+D:\Chapter 14\3D Game\3D Game\3D Game\bin\x86\Debug\Content\Models\ammo.xnb
+D:\Chapter 14\3D Game\3D Game\3D Game\bin\x86\Debug\Content\Effects\Particle.xnb
+D:\Chapter 14\3D Game\3D Game\3D Game\bin\x86\Debug\Content\Textures\Particle.xnb
+D:\Chapter 14\3D Game\3D Game\3D Game\bin\x86\Debug\Content\Textures\ParticleColors.xnb
+D:\Chapter 14\3D Game\3D Game\3D Game\bin\x86\Debug\Content\Textures\Crosshair.xnb
+D:\Chapter 14\3D Game\3D Game\3D Game\bin\x86\Debug\Content\Audio\GameAudio.xgs
+D:\Chapter 14\3D Game\3D Game\3D Game\bin\x86\Debug\Content\Audio\Wave Bank.xwb
+D:\Chapter 14\3D Game\3D Game\3D Game\bin\x86\Debug\Content\Audio\Sound Bank.xsb
+D:\Chapter 14\3D Game\3D Game\3D Game\bin\x86\Debug\3D Game.exe
+D:\Chapter 14\3D Game\3D Game\3D Game\bin\x86\Debug\3D Game.pdb
+D:\Chapter 14\3D Game\3D Game\3D Game\obj\x86\Debug\3D Game.exe
+D:\Chapter 14\3D Game\3D Game\3D Game\bin\x86\Debug\Content\Effects\OceanShader.xnb
+D:\Chapter 14\3D Game\3D Game\3D Game\bin\x86\Debug\Content\Effects\SkyShader.xnb
+D:\Chapter 14\3D Game\3D Game\3D Game\bin\x86\Debug\Content\Textures\Sky.xnb
+D:\Chapter 14\3D Game\3D Game\3D Game\bin\x86\Debug\Content\Textures\Ocean1_N.xnb
+D:\Chapter 14\3D Game\3D Game\3D Game\bin\x86\Debug\Content\Textures\Ocean2_N.xnb
+D:\Chapter 14\3D Game\3D Game\3D Game\bin\x86\Debug\Content\Textures\Ocean3_N.xnb
+D:\Chapter 14\3D Game\3D Game\3D Game\bin\x86\Debug\Content\Textures\Ocean4_N.xnb
+D:\Копия супер мега нано гейм\3D Game\3D Game\3D Game\bin\x86\Debug\Content\Models\spaceship.xnb
+D:\Копия супер мега нано гейм\3D Game\3D Game\3D Game\bin\x86\Debug\Content\Models\ammo.xnb
+D:\Копия супер мега нано гейм\3D Game\3D Game\3D Game\bin\x86\Debug\Content\Effects\Particle.xnb
+D:\Копия супер мега нано гейм\3D Game\3D Game\3D Game\bin\x86\Debug\Content\Effects\OceanShader.xnb
+D:\Копия супер мега нано гейм\3D Game\3D Game\3D Game\bin\x86\Debug\Content\Effects\SkyShader.xnb
+D:\Копия супер мега нано гейм\3D Game\3D Game\3D Game\bin\x86\Debug\Content\Textures\Particle.xnb
+D:\Копия супер мега нано гейм\3D Game\3D Game\3D Game\bin\x86\Debug\Content\Textures\ParticleColors.xnb
+D:\Копия супер мега нано гейм\3D Game\3D Game\3D Game\bin\x86\Debug\Content\Textures\Crosshair.xnb
+D:\Копия супер мега нано гейм\3D Game\3D Game\3D Game\bin\x86\Debug\Content\Textures\Sky.xnb
+D:\Копия супер мега нано гейм\3D Game\3D Game\3D Game\bin\x86\Debug\Content\Textures\Ocean1_N.xnb
+D:\Копия супер мега нано гейм\3D Game\3D Game\3D Game\bin\x86\Debug\Content\Textures\Ocean2_N.xnb
+D:\Копия супер мега нано гейм\3D Game\3D Game\3D Game\bin\x86\Debug\Content\Textures\Ocean3_N.xnb
+D:\Копия супер мега нано гейм\3D Game\3D Game\3D Game\bin\x86\Debug\Content\Textures\Ocean4_N.xnb
+D:\Копия супер мега нано гейм\3D Game\3D Game\3D Game\bin\x86\Debug\Content\Audio\GameAudio.xgs
+D:\Копия супер мега нано гейм\3D Game\3D Game\3D Game\bin\x86\Debug\Content\Audio\Wave Bank.xwb
+D:\Копия супер мега нано гейм\3D Game\3D Game\3D Game\bin\x86\Debug\Content\Audio\Sound Bank.xsb
+D:\Копия супер мега нано гейм\3D Game\3D Game\3D Game\bin\x86\Debug\3D Game.exe
+D:\Копия супер мега нано гейм\3D Game\3D Game\3D Game\bin\x86\Debug\3D Game.pdb
+D:\Копия супер мега нано гейм\3D Game\3D Game\3D Game\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Копия супер мега нано гейм\3D Game\3D Game\3D Game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Копия супер мега нано гейм\3D Game\3D Game\3D Game\obj\x86\Debug\3D Game.exe
+D:\Копия супер мега нано гейм\3D Game\3D Game\3D Game\obj\x86\Debug\3D Game.pdb
+D:\Копия супер мега нано гейм\3D Game\3D Game\3D Game\bin\x86\Debug\Content\Images\esc.xnb
+D:\Копия супер мега нано гейм\3D Game\3D Game\3D Game\bin\x86\Debug\Content\Images\help.xnb
+D:\Копия супер мега нано гейм\3D Game\3D Game\3D Game\bin\x86\Debug\Content\Images\start.xnb
+D:\Копия супер мега нано гейм\3D Game\3D Game\3D Game\bin\x86\Debug\Content\Fonts\Score.xnb
+D:\Копия супер мега нано гейм\3D Game\3D Game\3D Game\bin\x86\Debug\Content\Images\background.xnb
+D:\топорная супер мега нано гейм\3D Game\3D Game\3D Game\bin\x86\Debug\Content\Models\ammo.xnb
+D:\топорная супер мега нано гейм\3D Game\3D Game\3D Game\bin\x86\Debug\Content\Effects\Particle.xnb
+D:\топорная супер мега нано гейм\3D Game\3D Game\3D Game\bin\x86\Debug\Content\Effects\OceanShader.xnb
+D:\топорная супер мега нано гейм\3D Game\3D Game\3D Game\bin\x86\Debug\Content\Effects\SkyShader.xnb
+D:\топорная супер мега нано гейм\3D Game\3D Game\3D Game\bin\x86\Debug\Content\Textures\Particle.xnb
+D:\топорная супер мега нано гейм\3D Game\3D Game\3D Game\bin\x86\Debug\Content\Textures\ParticleColors.xnb
+D:\топорная супер мега нано гейм\3D Game\3D Game\3D Game\bin\x86\Debug\Content\Textures\Crosshair.xnb
+D:\топорная супер мега нано гейм\3D Game\3D Game\3D Game\bin\x86\Debug\Content\Textures\Sky.xnb
+D:\топорная супер мега нано гейм\3D Game\3D Game\3D Game\bin\x86\Debug\Content\Textures\Ocean1_N.xnb
+D:\топорная супер мега нано гейм\3D Game\3D Game\3D Game\bin\x86\Debug\Content\Textures\Ocean2_N.xnb
+D:\топорная супер мега нано гейм\3D Game\3D Game\3D Game\bin\x86\Debug\Content\Textures\Ocean3_N.xnb
+D:\топорная супер мега нано гейм\3D Game\3D Game\3D Game\bin\x86\Debug\Content\Textures\Ocean4_N.xnb
+D:\топорная супер мега нано гейм\3D Game\3D Game\3D Game\bin\x86\Debug\Content\Images\esc.xnb
+D:\топорная супер мега нано гейм\3D Game\3D Game\3D Game\bin\x86\Debug\Content\Images\background.xnb
+D:\топорная супер мега нано гейм\3D Game\3D Game\3D Game\bin\x86\Debug\Content\Images\help.xnb
+D:\топорная супер мега нано гейм\3D Game\3D Game\3D Game\bin\x86\Debug\Content\Images\start.xnb
+D:\топорная супер мега нано гейм\3D Game\3D Game\3D Game\bin\x86\Debug\Content\Fonts\Score.xnb
+D:\топорная супер мега нано гейм\3D Game\3D Game\3D Game\bin\x86\Debug\Content\Audio\GameAudio.xgs
+D:\топорная супер мега нано гейм\3D Game\3D Game\3D Game\bin\x86\Debug\Content\Audio\Wave Bank.xwb
+D:\топорная супер мега нано гейм\3D Game\3D Game\3D Game\bin\x86\Debug\Content\Audio\Sound Bank.xsb
+D:\топорная супер мега нано гейм\3D Game\3D Game\3D Game\bin\x86\Debug\3D Game.exe
+D:\топорная супер мега нано гейм\3D Game\3D Game\3D Game\bin\x86\Debug\3D Game.pdb
+D:\топорная супер мега нано гейм\3D Game\3D Game\3D Game\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\топорная супер мега нано гейм\3D Game\3D Game\3D Game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\топорная супер мега нано гейм\3D Game\3D Game\3D Game\obj\x86\Debug\3D Game.exe
+D:\топорная супер мега нано гейм\3D Game\3D Game\3D Game\obj\x86\Debug\3D Game.pdb
+D:\топорная супер мега нано гейм\3D Game\3D Game\3D Game\bin\x86\Debug\Content\Models\spaceship.xnb
+D:\топорная супер мега нано гейм\3D Game\3D Game\3D Game\bin\x86\Debug\Content\diffus_0.xnb
+D:\топорная супер мега нано гейм\3D Game\3D Game\3D Game\bin\x86\Debug\Content\Models\супербочка.xnb
+D:\топорная супер мега нано гейм\3D Game\3D Game\3D Game\bin\x86\Debug\Content\Models\boat.xnb
+D:\топорная супер мега нано гейм\3D Game\3D Game\3D Game\bin\x86\Debug\Content\wood_0.xnb

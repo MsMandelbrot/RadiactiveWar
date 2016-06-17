@@ -1,0 +1,8 @@
+D:\LearningXNA4.0\Chapter 14\3D Game\3D Game\3D GameContent\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\LearningXNA4.0\Chapter 14\3D Game\3D Game\3D GameContent\obj\x86\Debug\Audio\GameAudio.xml
+D:\Chapter 14\3D Game\3D Game\3D GameContent\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Chapter 14\3D Game\3D Game\3D GameContent\obj\x86\Debug\Audio\GameAudio.xml
+D:\Копия супер мега нано гейм\3D Game\3D Game\3D GameContent\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Копия супер мега нано гейм\3D Game\3D Game\3D GameContent\obj\x86\Debug\Audio\GameAudio.xml
+D:\топорная супер мега нано гейм\3D Game\3D Game\3D GameContent\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\топорная супер мега нано гейм\3D Game\3D Game\3D GameContent\obj\x86\Debug\Audio\GameAudio.xml

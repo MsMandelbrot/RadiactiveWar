@@ -1,0 +1,304 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Framework="Microsoft.Xna.Framework" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Models\ammo.x</Source>
+      <Name>Models\ammo</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\топорная супер мега нано гейм\3D Game\3D Game\3D Game\bin\x86\Release\Content\Models\ammo.xnb</Output>
+      <Time>2010-08-19T09:34:11.5942151+04:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\ammo_0.xml</Key>
+        <Value>2013-05-11T15:19:21.40625+04:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\spaceship.x</Source>
+      <Name>Models\spaceship</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\топорная супер мега нано гейм\3D Game\3D Game\3D Game\bin\x86\Release\Content\Models\spaceship.xnb</Output>
+      <Time>2010-08-19T09:34:11.6162019+04:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\spaceship_0.xml</Key>
+        <Value>2013-05-11T15:19:28.453125+04:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Effects\Particle.fx</Source>
+      <Name>Effects\Particle</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\топорная супер мега нано гейм\3D Game\3D Game\3D Game\bin\x86\Release\Content\Effects\Particle.xnb</Output>
+      <Time>2013-05-11T00:25:14.96875+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Effects\OceanShader.fx</Source>
+      <Name>Effects\OceanShader</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\топорная супер мега нано гейм\3D Game\3D Game\3D Game\bin\x86\Release\Content\Effects\OceanShader.xnb</Output>
+      <Time>2013-05-01T00:51:40.703125+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Effects\SkyShader.fx</Source>
+      <Name>Effects\SkyShader</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\топорная супер мега нано гейм\3D Game\3D Game\3D Game\bin\x86\Release\Content\Effects\SkyShader.xnb</Output>
+      <Time>2013-05-01T00:51:40.59375+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Particle.png</Source>
+      <Name>Textures\Particle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\топорная супер мега нано гейм\3D Game\3D Game\3D Game\bin\x86\Release\Content\Textures\Particle.xnb</Output>
+      <Time>2010-08-19T09:34:11.9190201+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\ParticleColors.png</Source>
+      <Name>Textures\ParticleColors</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\топорная супер мега нано гейм\3D Game\3D Game\3D Game\bin\x86\Release\Content\Textures\ParticleColors.xnb</Output>
+      <Time>2010-08-19T09:34:11.9350105+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Crosshair.png</Source>
+      <Name>Textures\Crosshair</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\топорная супер мега нано гейм\3D Game\3D Game\3D Game\bin\x86\Release\Content\Textures\Crosshair.xnb</Output>
+      <Time>2013-04-29T00:32:51.046875+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sky.dds</Source>
+      <Name>Textures\Sky</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\топорная супер мега нано гейм\3D Game\3D Game\3D Game\bin\x86\Release\Content\Textures\Sky.xnb</Output>
+      <Time>2013-05-01T00:51:14.828125+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ocean1_N.png</Source>
+      <Name>Textures\Ocean1_N</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\топорная супер мега нано гейм\3D Game\3D Game\3D Game\bin\x86\Release\Content\Textures\Ocean1_N.xnb</Output>
+      <Time>2013-05-01T00:51:14.84375+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ocean2_N.png</Source>
+      <Name>Textures\Ocean2_N</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\топорная супер мега нано гейм\3D Game\3D Game\3D Game\bin\x86\Release\Content\Textures\Ocean2_N.xnb</Output>
+      <Time>2013-05-01T00:51:14.84375+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ocean3_N.png</Source>
+      <Name>Textures\Ocean3_N</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\топорная супер мега нано гейм\3D Game\3D Game\3D Game\bin\x86\Release\Content\Textures\Ocean3_N.xnb</Output>
+      <Time>2013-05-01T00:51:14.859375+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ocean4_N.png</Source>
+      <Name>Textures\Ocean4_N</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\топорная супер мега нано гейм\3D Game\3D Game\3D Game\bin\x86\Release\Content\Textures\Ocean4_N.xnb</Output>
+      <Time>2013-05-01T00:51:14.875+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\esc.png</Source>
+      <Name>Images\esc</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\топорная супер мега нано гейм\3D Game\3D Game\3D Game\bin\x86\Release\Content\Images\esc.xnb</Output>
+      <Time>2013-05-04T20:19:49.125+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\background.png</Source>
+      <Name>Images\background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\топорная супер мега нано гейм\3D Game\3D Game\3D Game\bin\x86\Release\Content\Images\background.xnb</Output>
+      <Time>2013-05-04T19:27:43.3125+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\help.png</Source>
+      <Name>Images\help</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\топорная супер мега нано гейм\3D Game\3D Game\3D Game\bin\x86\Release\Content\Images\help.xnb</Output>
+      <Time>2013-05-04T20:22:01.5625+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\start.png</Source>
+      <Name>Images\start</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\топорная супер мега нано гейм\3D Game\3D Game\3D Game\bin\x86\Release\Content\Images\start.xnb</Output>
+      <Time>2013-05-04T20:20:22.78125+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Score.spritefont</Source>
+      <Name>Fonts\Score</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\топорная супер мега нано гейм\3D Game\3D Game\3D Game\bin\x86\Release\Content\Fonts\Score.xnb</Output>
+      <Time>2013-05-04T19:34:52.125+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\супербочка.FBX</Source>
+      <Name>Models\супербочка</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\топорная супер мега нано гейм\3D Game\3D Game\3D Game\bin\x86\Release\Content\Models\супербочка.xnb</Output>
+      <Time>2013-05-10T16:47:17.234375+04:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\_0.xml</Key>
+        <Value>2013-05-11T15:20:19.75+04:00</Value>
+      </Dependency>
+      <Request>D:\топорная супер мега нано гейм\3D Game\3D Game\3D Game\bin\x86\Release\Content\diffus_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\boat.FBX</Source>
+      <Name>Models\boat</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\топорная супер мега нано гейм\3D Game\3D Game\3D Game\bin\x86\Release\Content\Models\boat.xnb</Output>
+      <Time>2013-05-10T17:54:43.78125+04:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\boat_0.xml</Key>
+        <Value>2013-05-11T15:20:27.21875+04:00</Value>
+      </Dependency>
+      <Request>D:\топорная супер мега нано гейм\3D Game\3D Game\3D Game\bin\x86\Release\Content\wood_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\ammo.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\ammo_0.xml</Output>
+      <Time>2010-08-19T09:34:11.5942151+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\spaceship.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\spaceship_0.xml</Output>
+      <Time>2010-08-19T09:34:11.6162019+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\супербочка.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\_0.xml</Output>
+      <Time>2013-05-10T16:47:17.234375+04:00</Time>
+    </Item>
+    <Item>
+      <Source>D:\топорная супер мега нано гейм\3D Game\3D Game\Мои документы\Downloads\Новая папка\123\diffus.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\топорная супер мега нано гейм\3D Game\3D Game\3D Game\bin\x86\Release\Content\diffus_0.xnb</Output>
+      <Time>2010-04-09T17:06:02+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\boat.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\boat_0.xml</Output>
+      <Time>2013-05-10T17:54:43.78125+04:00</Time>
+    </Item>
+    <Item>
+      <Source>D:\топорная супер мега нано гейм\3D Game\3D Game\Мои документы\Downloads\wood.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\топорная супер мега нано гейм\3D Game\3D Game\3D Game\bin\x86\Release\Content\wood_0.xnb</Output>
+      <Time>2013-05-09T16:36:44.5+04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>D:\топорная супер мега нано гейм\3D Game\3D Game\3D GameContent\</RootDirectory>
+      <LoggerRootDirectory>D:\топорная супер мега нано гейм\3D Game\3D Game\3D Game\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\топорная супер мега нано гейм\3D Game\3D Game\3D GameContent\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>D:\топорная супер мега нано гейм\3D Game\3D Game\3D Game\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-09-06T21:52:34.421875+04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

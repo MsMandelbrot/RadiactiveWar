@@ -1,0 +1,25 @@
+Content\Models\ammo.xnb
+Content\Models\spaceship.xnb
+Content\Effects\Particle.xnb
+Content\Effects\OceanShader.xnb
+Content\Effects\SkyShader.xnb
+Content\Textures\Particle.xnb
+Content\Textures\ParticleColors.xnb
+Content\Textures\Crosshair.xnb
+Content\Textures\Sky.xnb
+Content\Textures\Ocean1_N.xnb
+Content\Textures\Ocean2_N.xnb
+Content\Textures\Ocean3_N.xnb
+Content\Textures\Ocean4_N.xnb
+Content\Images\esc.xnb
+Content\Images\background.xnb
+Content\Images\help.xnb
+Content\Images\start.xnb
+Content\Fonts\Score.xnb
+Content\Models\супербочка.xnb
+Content\Models\boat.xnb
+Content\diffus_0.xnb
+Content\wood_0.xnb
+Content\Audio\GameAudio.xgs
+Content\Audio\Wave Bank.xwb
+Content\Audio\Sound Bank.xsb

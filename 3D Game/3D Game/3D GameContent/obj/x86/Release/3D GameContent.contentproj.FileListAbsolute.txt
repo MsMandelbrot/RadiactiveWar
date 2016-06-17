@@ -1,0 +1,3 @@
+D:\топорная супер мега нано гейм\3D Game\3D Game\3D GameContent\obj\x86\Release\ResolveAssemblyReference.cache
+D:\топорная супер мега нано гейм\3D Game\3D Game\3D GameContent\obj\x86\Release\Audio\GameAudio.xml
+C:\универ\4 семестр\хна с#\3D game  типо\топорная супер мега нано гейм\3D Game\3D Game\3D GameContent\obj\x86\Release\3D GameContent.contentprojResolveAssemblyReference.cache
